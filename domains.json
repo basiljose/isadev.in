@@ -59,5 +59,13 @@
     "freedns3.registrar-servers.com",
     "freedns4.registrar-servers.com"
     ]
-  }
+  },
+  {
+  "subdomain": "basil",
+  "owner": "basiljose",
+  "ns": [
+    "ben.ns.cloudflare.com",
+    "eva.ns.cloudflare.com"
+  ]
+}
 ]
